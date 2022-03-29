@@ -1,0 +1,14 @@
+Aim is to learn how top open our project and make changes to it using git terminal
+
+steps are:
+
+Type git --version on the terminal: To check the version of the git 
+
+go to github and create a new repository
+
+Type git init on the terminal: To initialize the code(it creates a new hidden git folder in the vs code folder)
+
+To check the hidden file in the terminal type ls -a
+
+
+
